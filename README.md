@@ -29,4 +29,7 @@ AI-powered healthcare application for early prediction of PCOS and anemia using 
 
 <img width="1130" height="867" alt="Screenshot 2026-04-21 112959" src="https://github.com/user-attachments/assets/12a0aee2-8bf3-4c17-b564-536367b4ee09" />
 
+<img width="1114" height="820" alt="Screenshot 2026-04-21 113014" src="https://github.com/user-attachments/assets/bcaa28d2-72a4-4fda-97c4-95a449bf1371" />
+
+
 
